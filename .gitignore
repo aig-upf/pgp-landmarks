@@ -1,0 +1,8 @@
+domain/validation/*
+experiments/validation/*
+*__pycache__*
+*.bin
+.idea/
+cmake-build-debug/
+CMakeLists.txt
+
